@@ -4,4 +4,3 @@ nltk
 sumy
 langdetect
 numpy
-PIL
